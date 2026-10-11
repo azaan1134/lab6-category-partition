@@ -3,3 +3,8 @@
 tools/
 pict/
 build/
+.DS_Store
+.idea/
+pict/
+build/
+tools/
