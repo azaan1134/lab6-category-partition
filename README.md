@@ -90,7 +90,7 @@
 
 ## Хэсэг Б: PICT хэрэгсэл
 
-PICT-ийг `microsoft/pict` репозиторийн эх кодоос `cmake` ашиглан бүтээсэн (репогоос гадна `~/tools/pict` дотор). Нотолгоо: `results/pict-build.txt`. Бүх ажиллуулалтад `/r` ашиглаагүй (анхдагч тогтмол үр дүн).
+PICT-ийг `microsoft/pict` репозиторийн эх кодоос `cmake` ашиглан бүтээсэн (репогоос гадна `~/tools/pict` дотор). Нотолгоо: `results/pict-build.txt`. 
 
 ### Даалгавар B1 — Browser жишээ (`browser.model`)
 
